@@ -1,8 +1,8 @@
 +++
 date = 2020-10-13T08:16:48Z
-description = "Voici une courte présentation de mon parcours et de moi plus globalement"
+description = "Voici une courte présentation de mon parcours."
 disable_share = false
-featured_image = "/images/image.png"
+featured_image = "/images/notebook.jpg"
 tags = ["scene"]
 title = "Qui suis-je ?"
 
