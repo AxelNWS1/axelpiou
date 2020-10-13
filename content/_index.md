@@ -1,6 +1,6 @@
 ---
 title: Welcome to my website !
-featured_image: ''
+featured_image: "/images/pawel-czerwinski-jx5pbrtufvq-unsplash.jpg"
 description: ''
 
 ---
