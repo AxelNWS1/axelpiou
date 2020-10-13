@@ -1,6 +1,6 @@
 ---
 title: Welcome to my website !
-featured_image: "/images/8e50b152a15bf8fa200108f83eea21b5.jpg"
+featured_image: ''
 description: ''
 
 ---
