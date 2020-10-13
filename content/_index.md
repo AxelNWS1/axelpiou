@@ -5,4 +5,4 @@ description: ''
 
 ---
 
-{(< figure src="/images/image.png">)}
+{{<figure src="/images/image.png">}}
