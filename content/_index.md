@@ -4,4 +4,5 @@ featured_image: "/images/pawel-czerwinski-jx5pbrtufvq-unsplash-png.png"
 description: ''
 
 ---
-{(< figure src="/images/pawel-czerwinski-jx5pbrtufvq-unsplash-png.png">)}
+
+{(< figure src="/images/image.png">)}
