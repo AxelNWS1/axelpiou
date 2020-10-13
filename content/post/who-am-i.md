@@ -7,3 +7,7 @@ tags = ["scene"]
 title = "Who am I ?"
 
 +++
+
+---
+
+{{<figure src="/images/image.png">}}
