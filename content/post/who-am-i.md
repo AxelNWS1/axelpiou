@@ -2,6 +2,7 @@
 date = 2020-10-13T08:16:48Z
 description = "Voici une courte présentation de mon parcours et de moi plus globalement"
 disable_share = false
+draft = true
 featured_image = "/images/image.png"
 tags = ["scene"]
 title = "Qui suis-je ?"
