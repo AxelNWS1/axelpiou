@@ -1,5 +1,5 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Welcome to my website !
 featured_image: ''
 description: The last theme you'll ever need. Maybe.
 
