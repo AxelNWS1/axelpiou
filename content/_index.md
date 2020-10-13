@@ -1,8 +1,4 @@
 ---
 title: Welcome to my website !
-featured_image: "/images/pawel-czerwinski-jx5pbrtufvq-unsplash-png.png"
+featured_image: "/images/image.png"
 description: ''
-
----
-
-{{<figure src="/images/image.png">}}
